@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<stInfo>
+
+
+    <firstName>Jack</firstName>
+    <lastName>Cohen</lastName>
+    <address>
+        <homeAddress>Jamaica,NY</homeAddress>
+
+        <officeAddress>
+            Manhattan,NY
+            <suitNumber> 345 </suitNumber>
+        </officeAddress>
+
+    </address>
+
+
+</stInfo>

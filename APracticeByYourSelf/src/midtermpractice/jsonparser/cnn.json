@@ -1,0 +1,135 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [{
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": null,
+    "title": "Video shows United Airlines plane engine on fire after takeoff from Denver - CNN Video",
+    "description": "A United Airlines flight was forced to return to Denver International Airport after it suffered an engine failure shortly after takeoff, sending aircraft debris raining down on soccer fields, homes and yards in a Denver suburb. CNN's Lucy Kafanov reports.",
+    "url": "http://us.cnn.com/videos/us/2021/02/21/denver-united-airlines-flight-engine-fire-kafanov-dnt-ndwknd-vpx.cnn",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210221065627-denver-united-airline-plane-engine-fire-super-tease.jpg",
+    "publishedAt": "2021-02-22T00:22:39.3810675Z",
+    "content": null
+  },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Hear the mayday call pilot made as United Airlines flight had engine failure - CNN Video",
+      "description": "CNN's Pamela Brown and Pete Muntean discuss the mayday call made by the United Airlines pilot after experiencing engine failure shortly after take off.",
+      "url": "http://us.cnn.com/videos/us/2021/02/20/airplane-engine-issue-denver-colorado-mayday-audio-nr-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220171402-02-flight-returns-debris-colorado-0220-super-tease.jpg",
+      "publishedAt": "2021-02-22T00:22:29.7240298Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Pete Muntean, CNN",
+      "title": "Some Boeing 777 airplanes likely to be removed from service, FAA says",
+      "description": "The Federal Aviation Administration is stepping up inspections of Boeing 777 airplanes equipped with certain Pratt & Whitney PW4000 engines and it's likely some will be removed from service, according to a statement from FAA Administrator Steve Dickson.",
+      "url": "http://us.cnn.com/2021/02/21/us/boeing-777-airplanes-federal-aviation-administration/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220164333-01-flight-returns-debris-colorado-0220-super-tease.jpg",
+      "publishedAt": "2021-02-22T00:07:00Z",
+      "content": "(CNN)The Federal Aviation Administration is stepping up inspections of Boeing 777 airplanes equipped with certain Pratt &amp; Whitney PW4000 engines and it's likely some will be removed from service,… [+736 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Shawna Mizelle, Natasha Chen and Kevin Conlon, CNN",
+      "title": "AOC raises nearly $5 million in Texas relief efforts",
+      "description": "Democratic congresswoman Alexandria Ocasio-Cortez has amassed $4.7 million in her fundraising efforts to help Texans hard hit by last week's winter storm as of Sunday evening, according to her press secretary Ivet Contreras.",
+      "url": "http://us.cnn.com/2021/02/21/politics/alexandria-ocasio-cortez-texas-relief/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220120642-02-alexandria-ocasio-cortez-texas-210220-super-tease.jpg",
+      "publishedAt": "2021-02-21T23:24:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Paul LeBlanc, CNN",
+      "title": "Texas GOP congressman knocks Cruz for Cancun trip and says when a crisis hits, 'I'm not going to go on some vacation'",
+      "description": "Texas GOP Rep. Michael McCaul on Sunday delivered a pointed rebuke of Sen. Ted Cruz following his much-criticized trip to Cancun, Mexico, as a winter disaster rocked Texas last week.",
+      "url": "http://us.cnn.com/2021/02/21/politics/ted-cruz-cancun-texas-michael-mccaul-cnntv/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/160914185658-michael-mccaul-super-tease.jpg",
+      "publishedAt": "2021-02-21T22:58:54Z",
+      "content": "(CNN)Texas GOP Rep. Michael McCaul on Sunday delivered a pointed rebuke of Sen. Ted Cruz following his much-criticized trip to Cancun, Mexico, as a winter disaster rocked Texas last week. \r\n\"Look, wh… [+2262 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "James Frater and Amir Vera, CNN",
+      "title": "Cargo plane's engine catches fire, dropping debris that injures two people in a Dutch town",
+      "description": "Two people were injured after pieces of a cargo plane broke off and fell onto a town in the Netherlands, according to authorities there.",
+      "url": "http://us.cnn.com/2021/02/21/europe/cargo-plane-debris-meerssen-netherlands-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210221140827-maastricht-aachen-airport-file-super-tease.jpg",
+      "publishedAt": "2021-02-21T22:44:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Will Bill Gates go back to shaking hands? Hear his thoughts - CNN Video",
+      "description": "As more and more Americans receive the Covid-19 vaccine, CNN's Anderson Cooper asks Bill Gates if, one year from now, he would be willing to sit inside at a restaurant or resume shaking hands with people.",
+      "url": "http://us.cnn.com/videos/business/2021/02/20/shaking-hands-one-year-from-now-covid-19-pandemic-practices-bill-gates-intv-sot-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220212602-bill-gates-ac-intv-022021-super-tease.jpg",
+      "publishedAt": "2021-02-21T22:37:24.2866587Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Texas GOP rep.: When a crisis hits my state, I don't go on vacation - CNN Video",
+      "description": "Representative Michael McCaul (R-TX) discusses relief efforts in the wake of the winter storm that ravaged Texas.",
+      "url": "http://us.cnn.com/videos/politics/2021/02/21/gop-rep-michael-mccaul-texas-winter-storm-response-bash-sotu-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210221100718-gop-rep-michael-mccaul-texas-winter-storm-response-bash-sotu-vpx-00041202-super-tease.jpg",
+      "publishedAt": "2021-02-21T20:37:40.6885247Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Eric Levenson, CNN",
+      "title": "How United Airlines passengers reacted when the plane's engine exploded midair",
+      "description": "The loud boom was unmistakable aboard United Flight 328 just after takeoff on Saturday. Something had clearly gone very wrong.",
+      "url": "http://us.cnn.com/2021/02/21/us/united-airlines-engine-passenger-reaction-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220221724-united-jet-in-flight-0220-super-tease.jpg",
+      "publishedAt": "2021-02-21T20:37:19Z",
+      "content": "(CNN)The loud boom was unmistakable aboard United Flight 328 just after takeoff on Saturday. Something had clearly gone very wrong.\r\nSome of the 241 people on the flight from Denver International Air… [+5809 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Devan Cole and Anjali Huynh, CNN",
+      "title": "Texas congressman says emergency aid will help Texans pay high energy bills charged after deep freeze",
+      "description": "Federal emergency funds meant to help Texans recover from a deep freeze will also be used to help some residents pay exorbitantly high energy bills they were charged as a result of the recent snow storm, a Republican congressman from the state said Sunday.",
+      "url": "http://us.cnn.com/2021/02/21/politics/texas-utility-bills-michael-mccaul-cnntv/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210221100718-gop-rep-michael-mccaul-texas-winter-storm-response-bash-sotu-vpx-00041202-super-tease.jpg",
+      "publishedAt": "2021-02-21T20:00:06Z",
+      "content": null
+    }
+  ]
+}
